@@ -1,37 +1,48 @@
 # ros-template
+ros学习与模板
 
-#### 介绍
-ros程序模板
-
-#### 软件架构
-软件架构说明
+## 概述
 
 
-#### 安装教程
+## ros驱动
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## 感知Perception
+### 定位方向
+组合惯导
 
-#### 使用说明
+激光SLAM
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+视觉SLAM
 
-#### 参与贡献
+### 计算机视觉方向-OpenCV
+- [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
+- [learn_opencv](https://github.com/spmallick/learnopencv)
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+车道线检测
 
+目标检测
 
-#### 特技
+红绿灯检测
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+### 计算机视觉方向-PCL
+- [video-PCL介绍](https://www.bilibili.com/video/BV1HS4y1y7AB)
+- [pcl学习指南](https://www.yuque.com/huangzhongqing/pcl/rdk5k8)
+- [pcl_learning github](https://github.com/HuangCongQing/pcl-learning)
+- [黑马pcl-3d点云](https://robot.czxy.com/docs/pcl/)
+- [pcl_org](https://pointclouds.org/)
+- [pcl wiki](https://pcl.readthedocs.io/projects/tutorials/en/master/)
+### 人工智能方向-深度学习
+- [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [awesome-robotics](https://github.com/Kiloreux/awesome-robotics)
+- [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision)
+
+## 决策Decision
+- [Awesome-Autonomous-Driving](https://github.com/autonomousdrivingkr/Awesome-Autonomous-Driving)
+
+## 控制Control
+- [PID1](http://t.csdn.cn/UYXMp)
+- [LQR1](http://t.csdn.cn/jn8vL)
+- [MPC1](http://t.csdn.cn/opsL4)
+- [MPC2](http://t.csdn.cn/12Lyj)
+
+## 参考
